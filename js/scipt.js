@@ -1,7 +1,7 @@
 var app = new Vue({
   el: '#root',
   data: {
-    text: "EMPOLI F.C.",
-    image: "https://www.tuttocampo.it/Web/Images/News/500S/1432053.png"
+    text: "King Kong vs Godzilla",
+    image: "https://nerdmovieproductions.it/wp-content/uploads/2021/02/godzilla-770x488.jpg"
   }
 })
